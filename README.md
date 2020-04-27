@@ -26,6 +26,3 @@ Stochastic Gradient Descent (SGD): it uses only a single sample, i.e., a batch s
 **5.Predict the response**
 
 Loading the trained model and then use a graphical user interface that will predict the response from the bot. The model will only tell us the class it belongs to, so we will implement some functions which will identify the class and then retrieve us a random response from the list of responses.
-
-
-
